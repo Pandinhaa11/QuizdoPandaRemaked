@@ -1,7 +1,4 @@
-### Nota
 
-Teremos atualização? Sim!!! :D
-Sem spoilers, mas isso será legal.
 
 ### PandaQuiz
  
@@ -22,13 +19,13 @@ none
 ### Versão "alpha"
 none
 ### Versão postada mais recente
-1.1 beta NO UI
+1.1.1 beta NO UI
 
 Tenha diversão!
 
 ### Próxima versão (com interface)
 1.2 beta
 
-<a href="https://github.com/Pandinhaa11/QuizdoPanda/releases/tag/1a">fazer o download</a>
+<a href="https://github.com/Pandinhaa11/QuizdoPandaRemaked/releases/tag/1.1.1">Faz o download da 1.1.1 ai to com saco pra te aguentar hj nao</a>
 
 <h6> Github Pages / Jekyllrb 2024
